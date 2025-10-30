@@ -39,7 +39,7 @@ Don't forget to add CreateAssetMenu Attribute to the new AnimationEventStateSo c
 <img width="586" height="151" alt="Step 3a" src="https://github.com/user-attachments/assets/dd3398a5-5710-43d1-9ef0-99dcd426ee9d" />
 <img width="593" height="156" alt="Step 3b" src="https://github.com/user-attachments/assets/a25bab9b-fb2a-4311-aa34-5087415b45de" />
 
-Create Scriptable Objects of your AnimationEventStateSo. Choose the Animation state from the Enum field, and when to trigger the Event in the float field.
+Create Scriptable Objects of your AnimationEventStateSo. Choose the Animation state from the Enum field, and when to trigger the Event in the float field. The trigger time is normalized from 0 to 1.
 ### Step 4
 <img width="590" height="561" alt="Step 4" src="https://github.com/user-attachments/assets/ccce3108-4755-40b6-b23b-91dcf39f1583" />
 
