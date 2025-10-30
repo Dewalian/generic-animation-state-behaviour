@@ -50,4 +50,4 @@ Open your Animator window, and choose a State. Attach your AnimationEventStateBe
 Open your gameobject with the Animator component. Attach your AnimationEventReciever component. Choose the Animation state from the Enum field, and add the Event you want to trigger.
 
 # How to Download
-Click the green "Code" button on the top. Click "download zip file". Extract the zip file, and drag the "Generic Animation State Behaviour.unitypackage" to your Unity Editor.
+Click the green "Code" button on the top. Click "Download ZIP". Extract the ZIP file, and drag the "Generic Animation State Behaviour.unitypackage" to your Unity Editor.
