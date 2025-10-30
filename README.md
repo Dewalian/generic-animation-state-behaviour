@@ -20,7 +20,7 @@ Used to raise the Event of the animation to Animation Event Reciever class. Atta
 ## Animation Event Reciever
 <img width="1286" height="283" alt="Animation Event Reciever" src="https://github.com/user-attachments/assets/7a04747d-0427-4bf4-a49b-3886256feb28" />
 
-Used to invoke the Event raised by Animation Event State Behaviour class. Attack this component to a gameobject with an Animator component.
+Used to invoke the Event raised by Animation Event State Behaviour class. Attach this component to a gameobject with an Animator component.
 
 # How to Use
 ### Step 1
