@@ -48,3 +48,6 @@ Open your Animator window, and choose a State. Attach your AnimationEventStateBe
 <img width="595" height="791" alt="Step 5" src="https://github.com/user-attachments/assets/dee0b9fd-5f89-4c77-bfda-0bd68b8412e7" />
 
 Open your gameobject with the Animator component. Attach your AnimationEventReciever component. Choose the Animation state from the Enum field, and add the Event you want to trigger.
+
+# How to Download
+Click the "Generic Animation State Behaviour.unitypackage" file. Click the "Download Raw" button on the top right.
