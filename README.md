@@ -3,6 +3,7 @@ A Unity package for generic animation state behaviour class. Useful if you find 
 
 # Classes
 ## Animation Event
+![Test](Tutorial Images/Animation Event.png)
 Used for storing the Enum type and the Event that have to be triggered.
 
 ## Animation Event State SO
